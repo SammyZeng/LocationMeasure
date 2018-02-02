@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_point"
+        android:orderInCategory="0"
+        android:title="采集点"/>
+    <item
+        android:id="@+id/action_line"
+        android:orderInCategory="1"
+        android:title="采集线"/>
+    <item
+        android:id="@+id/action_face"
+        android:orderInCategory="2"
+        android:title="采集面"/>
+    <item
+        android:id="@+id/action_check"
+        android:orderInCategory="2"
+        android:title="查看"/>
+    <item
+        android:id="@+id/action_location"
+        android:orderInCategory="2"
+        android:title="记录轨迹"/>
+
+</menu>
